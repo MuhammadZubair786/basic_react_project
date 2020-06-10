@@ -9,6 +9,7 @@ import Stdname from './Stdname.js';
 function App() {
   return (
     <div className="App">
+      
 
     <h1 className="h1m">Welcome To Students Data</h1> 
     <hr className="l1"/>
