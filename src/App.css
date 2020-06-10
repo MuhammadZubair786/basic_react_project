@@ -1,5 +1,24 @@
 .App {
   text-align: center;
+  background-color: yellow;
+}
+.h1m{
+  color: brown;
+  text-shadow:3px 3px white;
+  font-size: 40px;
+}
+.l1{
+  color: red;
+  background-color: red;
+  height: 20px;
+}
+
+.l2{
+  border-style: dashed;
+  border-top: 7px;
+  border-color: red;
+  background-color: white;
+  
 }
 
 .App-logo {
